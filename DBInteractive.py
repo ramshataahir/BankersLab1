@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 # Load the dataset
-file_path = "C:\\Test BankersLab\\Simulation results\\TabularResults (2).xlsx"
+file_path = "TabularResults (2).xlsx"
 xls = pd.ExcelFile(file_path)
 
 # Select a sheet to work with
